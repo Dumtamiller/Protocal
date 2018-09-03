@@ -1,0 +1,32 @@
+E:\TIP\TIP\TIP\bin\Debug\TIP.exe.config
+E:\TIP\TIP\TIP\bin\Debug\TIP.exe
+E:\TIP\TIP\TIP\bin\Debug\TIP.pdb
+E:\TIP\TIP\TIP\obj\Debug\TIP.csprojAssemblyReference.cache
+E:\TIP\TIP\TIP\obj\Debug\TIP.Form1.resources
+E:\TIP\TIP\TIP\obj\Debug\TIP.Properties.Resources.resources
+E:\TIP\TIP\TIP\obj\Debug\TIP.csproj.GenerateResource.cache
+E:\TIP\TIP\TIP\obj\Debug\TIP.csproj.CoreCompileInputs.cache
+E:\TIP\TIP\TIP\obj\Debug\TIP.exe
+E:\TIP\TIP\TIP\obj\Debug\TIP.pdb
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\bin\Debug\TIP.exe.config
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\bin\Debug\TIP.exe
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\bin\Debug\TIP.pdb
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csprojAssemblyReference.cache
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.Form1.resources
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.Properties.Resources.resources
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csproj.GenerateResource.cache
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csproj.CoreCompileInputs.cache
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.exe
+C:\Users\True\Downloads\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.pdb
+E:\TIP Protocal\TIP\TIP\TIP\bin\Debug\TIP.exe.config
+E:\TIP Protocal\TIP\TIP\TIP\bin\Debug\TIP.exe
+E:\TIP Protocal\TIP\TIP\TIP\bin\Debug\TIP.pdb
+E:\TIP Protocal\TIP\TIP\TIP\bin\Debug\SimpleTCP.dll
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.Form1.resources
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.Properties.Resources.resources
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csproj.GenerateResource.cache
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csproj.CoreCompileInputs.cache
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csproj.CopyComplete
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.exe
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.pdb
+E:\TIP Protocal\TIP\TIP\TIP\obj\Debug\TIP.csprojAssemblyReference.cache
